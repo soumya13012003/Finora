@@ -46,6 +46,8 @@ Built with **FastAPI** · **React 19** · **Groq LLM** · **ChromaDB** · **Tail
 
 ## 🏗️ Architecture
 
+> See [ARCHITECTURE.md](./ARCHITECTURE.md) for detailed system diagrams, database ERD, AI pipeline, RAG sequence, and deployment topology.
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                      Frontend (React 19)                │
